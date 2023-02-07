@@ -11,3 +11,4 @@ dictionaries, which one is nested dictionary,
 functions with inputs,
 while loop,
 if/elif/else condition, one if statement is nested.
+global variable
